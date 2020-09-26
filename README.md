@@ -24,5 +24,5 @@
 ### I am Miguel Coria
 - #TEAMNOSLEEP
 - "You don't have to be great to start, but you have to start to be great."  - Zig Ziglar
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- Currently working on some of my cool side projects based on Web Development and E-commerce.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
