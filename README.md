@@ -18,6 +18,8 @@
 <a href="#">
   <img align="left" alt="Miguel's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+
+<br>
 - #TEAMNOSLEEP
 - "You don't have to be great to start, but you have to start to be great."  - Zig Ziglar
 - Currently working on some of my cool side projects based on Web Development and E-commerce.
