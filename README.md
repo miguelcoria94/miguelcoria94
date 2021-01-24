@@ -1,6 +1,10 @@
-## Hello World! <img src="https://media.giphy.com/media/xXud4DaGlJoRy/giphy.gif" width="30px"></h2>
+### Hi there 👋
 
-- #TEAMNOSLEEP
-- "You don't have to be great to start, but you have to start to be great."  - Zig Ziglar
-- Currently working on some of my cool side projects.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+Hello, I'm Miguel.
+I create apps and contribute to opensource to improve the developer experience.
+
+![views](https://komarev.com/ghpvc/?username=miguelcoria94&label=Profile%20views&color=0e75b6&style=flat)
+
+### Languages & Tools
+
+![c](static/c.svg) ![expressjs](static/expressjs.svg) ![heroku](static/heroku.svg) ![illustrator](static/illustrator.svg) ![javascript](static/javascript.svg) ![knexjs](static/knexjs.svg) ![nodejs](static/nodejs.svg) ![photoshop](static/photshop.svg) ![postgresql](static/postgresql.svg) ![postman](static/postman.svg) ![python](static/python.svg) ![react](static/react.svg) ![redux](static/redux.svg) ![sass](static/sass.svg) ![tailwindcss](static/tailwindcss.svg) ![typescript](static/typescript.svg) ![vscode](static/vscode.svg) ![webstorm](static/webstorm.svg) ![xd](static/xd.svg)
