@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hello, I'm Miguel.
-I create apps and contribute to opensource to improve the developer experience.
+A self-starter & solution driven individual who is most excited about developing innovative and creative ideas with a great team.
 
 ![views](https://komarev.com/ghpvc/?username=miguelcoria94&label=Profile%20views&color=0e75b6&style=flat)
 
